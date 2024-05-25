@@ -28,7 +28,7 @@ Ensure you have Node.js and npm (Node Package Manager) installed on your machine
 ```git clone https://github.com/DeekshithaMunigala/birthday-buddy.git```
 ```cd birthday-buddy```
 
-Install the required packages
+2. Install the required packages
 ```npm install```
 
 ## Running the Application
